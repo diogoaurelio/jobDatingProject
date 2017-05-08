@@ -1,2 +1,2 @@
 #!/bin/bash
-play-app/build.sh
+jobdating-web-app/build.sh
